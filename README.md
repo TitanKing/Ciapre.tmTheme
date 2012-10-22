@@ -4,13 +4,16 @@ Ciapre - an easy-for-the-eyes Sublime Text/ TextMate color scheme.
 
 http://vinhnx.github.com/blog/2012/09/21/ciapre-sublime-text-color-scheme/
 
-## Default version
-![Ciapre](https://dl.dropbox.com/u/11357190/Shared%20Images/Ciapre%20ST%20theme%20preview%205%20-sd.PNG)
-
 ## Black (background) version
 ![Ciapre Black](https://dl.dropbox.com/u/11357190/Shared%20Images/awesome%20ciapre%20black%20-%20sd.png)
 
-# How to install & use:
+![Ciapre Black](https://dl.dropbox.com/u/11357190/Shared%20Images/ciapre-new.PNG)
+
+## Default version
+![Ciapre](https://dl.dropbox.com/u/11357190/Shared%20Images/Ciapre%20ST%20theme%20preview%205%20-sd.PNG)
+
+
+# How to install & use
 ## Via Package Control:
 Open Package Control and search for `Ciapre`, install it.
 
