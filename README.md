@@ -23,9 +23,16 @@ Copy your desire tmTheme and paste it in Package folder.
 
 In Windows machine, it is located in C:\Users\YOUR-NAME\AppData\Roaming\Sublime Text 2\Packages
 
-Enter User folder, and paste it in.
+Enter `User` folder, and paste it in.
 
-In your opened Sublime Text, browse to Preferences -> Color Scheme -> User -> Ciapre.tmTheme.
+In your opened Sublime Text, browse to Preferences -> Color Scheme -> User -> Ciapre
+
+-- 
+Or you can clone this in you Packages folder
+
+`git clone https://github.com/vinhnx/Ciapre.tmTheme.git`
+
+.. then activate via Preferences -> Color Scheme -> Ciapre.tmTheme
 
 * Use great with [Aqua](https://github.com/cafarm/aqua-theme) theme - Prokit.
                     
