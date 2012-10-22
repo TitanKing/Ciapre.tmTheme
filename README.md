@@ -5,9 +5,9 @@ Ciapre - an easy-for-the-eyes Sublime Text/ TextMate color scheme.
 http://vinhnx.github.com/blog/2012/09/21/ciapre-sublime-text-color-scheme/
 
 ## Black (background) version
-![Ciapre Black](https://dl.dropbox.com/u/11357190/Shared%20Images/awesome%20ciapre%20black%20-%20sd.png)
-
 ![Ciapre Black](https://dl.dropbox.com/u/11357190/Shared%20Images/ciapre-new.PNG)
+
+![Ciapre Black](https://dl.dropbox.com/u/11357190/Shared%20Images/awesome%20ciapre%20black%20-%20sd.png)
 
 ## Default version
 ![Ciapre](https://dl.dropbox.com/u/11357190/Shared%20Images/Ciapre%20ST%20theme%20preview%205%20-sd.PNG)
