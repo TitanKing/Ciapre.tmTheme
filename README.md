@@ -1,5 +1,5 @@
 # Ciapre.tmTheme
-Ciapre - an easy-for-the-eyes Sublime Text/ TextMate color scheme.
+Ciapre - an easy-on-the-eyes Sublime Text/ TextMate color scheme.
 * Updated: Now included in Sublime Package Control. Install it! :)
 
 http://vinhnx.github.com/blog/2012/09/21/ciapre-sublime-text-color-scheme/
