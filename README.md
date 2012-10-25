@@ -37,4 +37,8 @@ Or you can clone this in you Packages folder
 
 .. then activate via Preferences -> Color Scheme -> Ciapre.tmTheme
 
-* Use great with [Aqua](https://github.com/cafarm/aqua-theme) theme - Prokit.
+*Tips: 
+Use great with [Aqua](https://github.com/cafarm/aqua-theme) theme - Prokit. 
+You won't be disappointed!
+
+~ Happy coding :)
