@@ -22,9 +22,9 @@ Now in your beloved Sublime Text, open Preferences -> Color Scheme -> Ciapre > n
 Enjoy! :)
 
 ## Manual way:
-Copy your desire tmTheme and paste it in Package folder.
+Copy your desired tmTheme and paste it in Package folder.
 
-In Windows machine, it is located in C:\Users\YOUR-NAME\AppData\Roaming\Sublime Text 2\Packages
+On Windows, it is located in C:\Users\YOUR-NAME\AppData\Roaming\Sublime Text 2\Packages
 
 Enter `User` folder, and paste it in.
 
